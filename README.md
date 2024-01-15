@@ -11,7 +11,11 @@ pip install -r requirements.txt
 In terminal, run the following
 
 ```
-flask run or python app.py
+flask run
+```
+or
+```
+python app.py
 ```
  ### Admin URLS: 
  - /admin_upload
